@@ -1,0 +1,12 @@
+# Ignore les logs
+*.json
+*.log
+
+# Ignore les fichiers de config sensibles
+.env
+*.bak
+
+# Ignore les gros fichiers
+*.tar
+*.gz
+*.zip
